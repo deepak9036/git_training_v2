@@ -1,10 +1,11 @@
 
 
-line has code
-line has code
 
-line 1 has code
-line 2 has code
+
+
+
+
+
 
 git stash example
 git stash exampleor sample2 again
@@ -12,3 +13,7 @@ git stash exampleor sample2 again
 
 
 
+
+
+line has code
+>>>>>>> d2cd4c7 (sample in dev)
