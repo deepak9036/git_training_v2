@@ -6,3 +6,4 @@ line 1 has code
 line 2 has code
 
 git stash example
+git stash exampleor sample2 again
