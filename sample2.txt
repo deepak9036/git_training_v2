@@ -1,6 +1,10 @@
 
 
 
+
 adding merge lines to check line 1
->>>>>>> main
+
 git stash exampleor sample2
+
+addine line number1 to check merge
+ 46d2955 (updated 2)
